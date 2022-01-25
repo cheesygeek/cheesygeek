@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cheesygeek
+- 👋 Hi, I’m Patrick BENIE
 - 👀 I’m interested in developing useful apps
 - 🌱 I’m currently learning python and swift
 - 💞️ I’m looking to collaborate on any python projects, ML, iOS development
